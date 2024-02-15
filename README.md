@@ -10,3 +10,7 @@ As part of my studies, there are a few files showing how to create both latent t
 - Latent trait model with polytomous and ordinal data: specification and parameter interpretation. The underlyng variable approach.
 
 - Latent class model with binary data: specification, identifiability, maximum likelihood estimation, goodness of fit.
+
+#### Remarks:
+- To check the tasks solved in "Mock_exam.pdf" please check the file "mock_exam_tasks.pdf"
+- dataset are not uploaded since they can be accessed right from the used packeges in the codes.
