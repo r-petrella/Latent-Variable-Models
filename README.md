@@ -13,4 +13,4 @@ As part of my studies, there are a few files showing how to create both latent t
 
 #### Remarks:
 - To check the tasks solved in "Mock_exam.pdf" please check the file "mock_exam_tasks.pdf"
-- dataset are not uploaded since they can be accessed right from the used packeges in the codes.
+- in some cases dataset are not uploaded since they can be accessed right from the used packeges in the codes.
